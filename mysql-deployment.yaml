@@ -34,4 +34,4 @@ spec:
           persistentVolumeClaim:
             claimName: mysql-data-disk
           configMap:
-            name: mysql-confluence-db
+            name: mysql-configmap
